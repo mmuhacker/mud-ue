@@ -230,9 +230,9 @@ https://example.com/path?name=test&id=1#section
   الجزء         section
 
   المعاملات مفككة:
-    name = test
+name = test
     
-    id   = 1
+id   = 1
 
 </div>
 
