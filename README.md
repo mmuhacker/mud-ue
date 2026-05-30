@@ -179,6 +179,7 @@ mud_ue.py
 | `4` Hex | تشفير/فك تشفير Hex |
 | `5` تحليل رابط | تفكيك رابط URL كامل |
 | `6` الكل دفعة | تشفير أو فك تشفير بكل الطرق مرة واحدة |
+
 </div>
 
 ---
@@ -191,28 +192,40 @@ mud_ue.py
 
 
 اختيارك: 6
+
 أدخل النص: hello world
+
 اختر الاتجاه: 1 (تشفير)
 
   URL Encode:    hello%20world
+  
   Base64:        aGVsbG8gd29ybGQ=
+  
   HTML Encode:   hello world
+  
   Hex:           68656c6c6f20776f726c64
   
 ---
 
 
 اختيارك: 5
-أدخل الرابط: https://example.com/path?name=test&id=1#section
+
+أدخل الرابط: 
+https://example.com/path?name=test&id=1#section
 
   البروتوكول    https
+  
   النطاق        example.com
+  
   المسار        /path
+  
   المعاملات     name=test&id=1
+  
   الجزء         section
 
   المعاملات مفككة:
     name = test
+    
     id   = 1
 
 ---
