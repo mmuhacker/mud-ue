@@ -196,6 +196,7 @@ mud_ue.py
 أدخل النص: hello world
 
 اختر الاتجاه: 1 (تشفير)
+<div align="center">
 
   URL Encode:    hello%20world
   
@@ -204,6 +205,8 @@ mud_ue.py
   HTML Encode:   hello world
   
   Hex:           68656c6c6f20776f726c64
+  
+  </div>
   
 ---
 
@@ -214,6 +217,8 @@ mud_ue.py
 
 https://example.com/path?name=test&id=1#section
 
+<div align="center">
+  
   البروتوكول    https
   
   النطاق        example.com
@@ -228,6 +233,8 @@ https://example.com/path?name=test&id=1#section
     name = test
     
     id   = 1
+
+</div>
 
 ---
 
