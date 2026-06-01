@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🔗 URL Encoder / Decoder — أداة تشفير وفك تشفير الروابط
+# 🔗 URL Encoder / Decoder أداة تشفير وفك تشفير الروابط
 
 **تعمل على نظام Kali Linux و تطبيق Termux**
 
